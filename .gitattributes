@@ -1,3 +1,4 @@
-# count our .md files as real code, not just documentation
+# stop counting .md as “documentation only”
 *.md linguist-documentation=false
+# force‐count them as Markdown
 *.md linguist-language=Markdown
