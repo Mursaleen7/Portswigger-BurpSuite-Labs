@@ -1,0 +1,3 @@
+# count our .md files as real code, not just documentation
+*.md linguist-documentation=false
+*.md linguist-language=Markdown
