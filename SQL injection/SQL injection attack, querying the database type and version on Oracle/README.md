@@ -35,7 +35,7 @@ Because the application simply tacks raw query-string text onto its `WHERE` clau
 ---
 
 ![Lab banner – PortSwigger Practitioner level](3.png)
-
+> Queried Oracle version
 
 ---
 
@@ -50,7 +50,7 @@ Because the application simply tacks raw query-string text onto its `WHERE` clau
 ---
 
 ![Lab banner – PortSwigger Practitioner level](4.png)
-
+> The complete Oracle banner output
 ---
 
 ## Conclusion
