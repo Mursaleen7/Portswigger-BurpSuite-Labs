@@ -34,6 +34,11 @@ Because the application simply tacks raw query-string text onto its `WHERE` clau
 
 ---
 
+![Lab banner – PortSwigger Practitioner level](3.png)
+
+
+---
+
 ## Observable Output
 
 | Test / Payload                             | Visible result                                   | What it proved                          |
@@ -44,13 +49,7 @@ Because the application simply tacks raw query-string text onto its `WHERE` clau
 
 ---
 
-## Mitigation Guidance
-
-1. **Use parameterised queries / prepared statements.** Prevents user input from changing SQL structure.
-2. **Restrict account privileges.** The web-app user should not be able to read `V$VERSION` or other system views.
-3. **Employ input validation & escaping libraries.** Centralise sanitisation logic instead of ad-hoc concatenation.
-4. **Mask error & banner output.** Never reflect database metadata back to the client.
-5. **Routine patching.** Ensure that even if version info leaks, the revealed build is fully up-to-date.
+![Lab banner – PortSwigger Practitioner level](4.png)
 
 ---
 
