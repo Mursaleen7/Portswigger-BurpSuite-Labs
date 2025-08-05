@@ -12,16 +12,6 @@ This repo is my learning log as I tackle PortSwigger’s **Web Security Academy*
 
 ---
 
-## Progress
-
-| Module          | Done | Notes          |
-|-----------------|------|----------------|
-| Injection       | ✅ 1 | Started        |
-| Authentication  | ⌛ 0 | Coming soon    |
-| Access Control  | ⌛ 0 | Coming soon    |
-
----
-
 ## Use These Notes
 
 1. Open the lab’s `writeup.md`.  
