@@ -54,4 +54,4 @@ Because the application simply tacks raw query-string text onto its `WHERE` clau
 
 ## Conclusion
 
-By chaining basic UNION-based SQL injection techniques we extracted the exact Oracle build string—information invaluable to any attacker planning further compromise. 
+By chaining basic UNION-based SQL injection techniques we extracted the exact Oracle build string information invaluable to any attacker planning further compromise. 
