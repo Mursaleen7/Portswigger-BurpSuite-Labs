@@ -22,7 +22,7 @@ This repo is my learning log as I tackle PortSwigger’s **Web Security Academy*
 
 ---
 
-## Roadmap (Short Version)
+## Initial Roadmap
 
 - Finish all Apprentice SQLi labs  
 - Begin Broken Authentication module  
