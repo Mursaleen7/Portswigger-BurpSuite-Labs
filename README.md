@@ -1,6 +1,6 @@
 # Portswigger Burpsuite Lab Write-ups
 
-This repo is my learning log as I tackle PortSwigger’s **Web Security Academy** labs. I’m just getting started, so expect mostly *Apprentice-level* content for now—more advanced notes will appear as I progress.
+This repo is my learning log as I tackle PortSwigger’s **Web Security Academy** labs. I’m just getting started, so expect mostly *Apprentice-level* content for now more advanced notes will appear as I progress.
 
 ---
 
