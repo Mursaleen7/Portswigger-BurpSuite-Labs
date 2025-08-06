@@ -19,9 +19,8 @@ Because the application blindly concatenates user-supplied text into a `WHERE` c
 
 ## Why This Matters to You
 
-* **Precision exploitation:** Version strings map directly to published CVEs—attackers can cherry-pick exploits that match your exact patch level.
+* **Precision exploitation:** Version strings map directly to published CVEs attackers can cherry pick exploits that match your exact patch level.
 * **Evasion planning:** Knowing whether the back-end is MySQL Community, Percona, MariaDB, or Microsoft SQL Server Edition helps attackers anticipate which auditing, encryption, and logging features are present.
-* **Recon → privilege escalation:** Version disclosure is a building block in multi-stage intrusions that end in ransomware or large-scale data theft.
 
 ---
 
