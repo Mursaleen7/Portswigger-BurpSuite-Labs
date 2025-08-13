@@ -14,7 +14,7 @@ Because the application dynamically concatenates user-supplied text into its SQL
 ## Why This Matters to You
 
 * **Full data breach:** Once table names and column names are known, dumping sensitive data (usernames, passwords, payment details) becomes trivial.
-* **Persistence risk:** Knowledge of schema details makes privilege escalation and backdoor creation easier for attackers.
+* **Persistence risk:** Knowledge of schema details makes backdoor creation easier for attackers.
 * **Compliance violations:** Any unauthorised access to stored credentials can trigger GDPR, CCPA, or similar regulatory reporting requirements.
 
 ---
