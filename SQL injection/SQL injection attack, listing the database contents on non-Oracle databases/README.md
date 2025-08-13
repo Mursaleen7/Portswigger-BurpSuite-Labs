@@ -11,6 +11,12 @@ Because the application dynamically concatenates user-supplied text into its SQL
 
 ---
 
+# Descriprion
+
+![Lab banner – PortSwigger Practitioner level](2.png)
+
+---
+
 ## Why This Matters to You
 
 * **Full data breach:** Once table names and column names are known, dumping sensitive data (usernames, passwords, payment details) becomes trivial.
