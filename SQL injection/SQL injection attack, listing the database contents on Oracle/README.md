@@ -1,6 +1,6 @@
 # SQL injection attack, listing the database contents on Oracle
 
-**Lab banner – PortSwigger Practitioner level**
+![Lab banner – PortSwigger Practitioner level](1.png)
 
 ---
 
@@ -10,11 +10,9 @@ In the PortSwigger Web Security Academy lab *“SQL injection attack: listing th
 
 ---
 
-## Description
+# Descriprion
 
-**Lab banner – PortSwigger Practitioner level**
-
-This lab challenges us to exploit a UNION-based SQL injection vulnerability in an Oracle database. By abusing Oracle’s metadata views, we were able to extract the names of database tables, enumerate columns of interest, and dump stored usernames and passwords.
+![Lab banner – PortSwigger Practitioner level](2.png)
 
 ---
 
