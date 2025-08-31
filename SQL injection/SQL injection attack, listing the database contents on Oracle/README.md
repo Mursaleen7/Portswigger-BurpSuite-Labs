@@ -1,11 +1,5 @@
 # SQL injection attack, listing the database contents on Oracle
 
-Got it 👍 I’ll reformat your Oracle SQLi write-up into the **same structure and style** as your PostgreSQL example draft. Here’s the cleaned-up version:
-
----
-
-# SQL injection attack, listing the database contents on Oracle databases
-
 **Lab banner – PortSwigger Practitioner level**
 
 ---
