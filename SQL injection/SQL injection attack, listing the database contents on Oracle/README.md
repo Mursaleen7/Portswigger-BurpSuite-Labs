@@ -53,12 +53,3 @@ This lab challenges us to exploit a UNION-based SQL injection vulnerability in a
 
 By leveraging UNION-based SQL injection against Oracle system views, we escalated from basic injection discovery to a full schema compromise, ultimately harvesting usernames and passwords. The lab highlights the risk of unsanitised SQL concatenation in Oracle environments.
 
-**Mitigations**:
-
-* Use parameterised queries (prepared statements) instead of string concatenation.
-* Apply least-privilege roles to database users so applications cannot query metadata views.
-* Enforce secure password storage (strong hashing, salting).
-
----
-
-Would you like me to also **recreate the Python automation script (script.py)** in the same professional format for this Oracle lab write-up? That way, your walkthrough will look like a full pentest report + exploit code package.
