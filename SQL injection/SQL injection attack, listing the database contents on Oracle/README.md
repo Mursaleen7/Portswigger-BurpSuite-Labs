@@ -36,6 +36,10 @@ In the PortSwigger Web Security Academy lab *“SQL injection attack: listing th
 
 ---
 
+![Lab banner – PortSwigger Apprentice level](3.png)
+
+> *Extracting the username and password column that contain the username and password info*
+
 ## Observable Output
 
 | Test / Payload                                                                           | Visible Result                                 | What it Proved                       |
@@ -46,6 +50,10 @@ In the PortSwigger Web Security Academy lab *“SQL injection attack: listing th
 | `' UNION SELECT USERNAME_DINZLR,PASSWORD_BTNGGB FROM USERS_TOAEAL--`                     | List of usernames and passwords                | Full credential disclosure achieved. |
 
 ---
+
+![Lab banner – PortSwigger Apprentice level](4.png)
+
+> *The list of usernames and passwords outputed*
 
 ## Conclusion
 
