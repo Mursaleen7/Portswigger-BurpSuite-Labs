@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-In the PortSwigger Web Security Academy lab *“SQL injection attack: listing the database contents on Oracle databases”*, we demonstrated how an attacker can enumerate Oracle database tables, their columns, and sensitive user credentials using a series of UNION SELECT queries against the `all_tables` and `all_tab_columns` system views. Because the application concatenates user input directly into SQL statements without sanitisation, we pivoted from initial UNION tests to full schema enumeration and credential harvesting.
+In the PortSwigger Web Security Academy lab *“SQL injection attack: listing the database contents on Oracle databases”*, we demonstrated how an attacker can enumerate Oracle database tables, their columns, and sensitive user credentials using a series of UNION SELECT queries against the `all_tables` and `all_tab_columns` system views.
 
 ---
 
