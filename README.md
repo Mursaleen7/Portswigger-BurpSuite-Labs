@@ -29,9 +29,3 @@ This repo is my learning log as I tackle PortSwigger’s **Web Security Academy*
 - Attempt one Expert challenge this year
 
 ---
-
-## Contributing & License
-
-Spotted an error? PRs are welcome. Content is MIT-licensed—reuse freely, but respect PortSwigger’s terms for the labs themselves.
-
-Happy hacking! 🐙
